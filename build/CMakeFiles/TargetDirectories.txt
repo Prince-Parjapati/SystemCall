@@ -1,3 +1,0 @@
-/home/parjapati/Desktop/syscall_tracer/build/CMakeFiles/syscall_tracer.dir
-/home/parjapati/Desktop/syscall_tracer/build/CMakeFiles/edit_cache.dir
-/home/parjapati/Desktop/syscall_tracer/build/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/syscall_tracer.dir/src/main.cpp.o CMakeFiles/syscall_tracer.dir/src/syscall_map.cpp.o CMakeFiles/syscall_tracer.dir/src/tracer.cpp.o -o syscall_tracer 
